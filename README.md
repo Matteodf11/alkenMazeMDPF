@@ -1,1 +1,1 @@
-# alkenMazeMDPF
+En pocas palabras el proyecto consiste en una aplicacion que simula un laberinto con distintos bloques en el que se crea una ventana con dos barras que permiten personalizar el tamaño del laberinto en base al alto y el ancho de este mismo.
